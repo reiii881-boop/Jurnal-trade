@@ -1,0 +1,26 @@
+{
+  "name": "TradeJournal Pro — Trading Journal Premium",
+  "short_name": "TradeJournal Pro",
+  "description": "Jurnal trading premium dark mode untuk trader Demo, Live, dan Prop Firm. 100% offline dengan IndexedDB.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%230B1020'/%3E%3Cpath d='M38 125 L77 86 L106 111 L154 54' stroke='%2322D3A5' stroke-width='13' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M125 54 L154 54 L154 83' stroke='%2322D3A5' stroke-width='13' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='108' fill='%230B1020'/%3E%3Cpath d='M100 335 L205 230 L282 296 L410 145' stroke='%2322D3A5' stroke-width='34' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M333 145 L410 145 L410 222' stroke='%2322D3A5' stroke-width='34' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
